@@ -1,0 +1,47 @@
+/*Name: Ryo Sakei */
+/* Color Theme Swatches in Hex */
+.mochi{ color: #E6DCCB; }
+.macha{ color: #384001; }
+.sencha{ color: #A3A658; }
+.wooden{ color: #A6886D; }
+.sakura{ color: #F2B9AC; }
+
+.background{
+background-color:#F2B9AC;
+background-repeat: repeat;
+background-position: middle;
+background-size: 100%;
+}
+
+.A1{
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: center;
+	background-color:#384001;
+	border-width: 2px;
+	border-color: #F2B9AC;
+	font-size: 100px;
+	color:gray;
+	
+}
+.A2{
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+	background-color: #A3A658;
+	border-width: 3px;
+	border-style: dashed;
+	border-color: #384001;
+	font-size:40px;
+	color:White;
+}
+
+.body{
+	margin-left: 70px;
+	color:black;
+	font-size: 40px;
+}
+
+h3{
+	font-size: 30px;
+}
